@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.tktxstore.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.tktxstore.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://www.tktxstore.com/blogs/news.atom"/>
+  <title>TKTXstore.com - News</title>
+  <updated>2020-04-01T14:26:00+08:00</updated>
+  <author>
+    <name>TKTXstore.com</name>
+  </author>
+  <entry>
+    <id>https://www.tktxstore.com/blogs/news/the-best-way-to-apply-tktx-cream</id>
+    <published>2020-04-01T14:26:00+08:00</published>
+    <updated>2020-10-27T14:57:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tktxstore.com/blogs/news/the-best-way-to-apply-tktx-cream"/>
+    <title>The Best Way to Apply TKTX Cream</title>
+    <author>
+      <name>Kelly Chan</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<p>1. First, you should apply hot towel to your skin for 2-3 minutes <br><br>2. Wipe the skin with a towel and then dry and clean the skin <br><br>3. Apply TKTX, pay attention to be 2-3 mm thick as the video.<br><br>4. Leave cream and wrap in place about 40-60 minutes<br><br>5. Remove the cream<br><br>6. Spray with alcohol and clean it.</p>
+<p><span>7. Wait 10-20 minutes. </span></p><p><a class="read-more" href="https://www.tktxstore.com/blogs/news/the-best-way-to-apply-tktx-cream">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<iframe width="1280" height="720" src="https://www.youtube.com/embed/mEkN3GA0IDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.tktxstore.com/blogs/news/how-to-use-tktx</id>
+    <published>2018-09-01T21:04:00+08:00</published>
+    <updated>2018-12-27T22:17:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tktxstore.com/blogs/news/how-to-use-tktx"/>
+    <title>How to Use TKTX ?</title>
+    <author>
+      <name>Kelly Chan</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><strong>Application</strong></p>
+<p><br>1.Wash the area receiving tattoo or laser treatment with soap and water. Dry area completely.<br><br>2.Apply a thick amount of TKTX numbing cream to the area and rub in thoroughly.<br><br>3.After rubbing into the skin, apply a 2nd heavy layer of TKTX cream (1/8" or 2-3 mm thick) over the area.<br><br>4.Cover the TKTX cream with plastic wrap (saran wrap) and keep warm. The heat under the plastic wrap helps activate the cream and keeps the cream from drying out.<br><br>5.Leave TKTX cream and wrap in place for 1 hours before tattoo. For long procedures lasting hours over large areas; apply numbing cream over the entire work area, then remove in sections as procedure progresses.<br><br>6.Skin typically remains numb for 2 - 5 hours once cream is removed from numbed skin depending on skin type and location on body.</p>
+<p> </p>
+<p><em>Attention: Numbing Time depend on the Thickness and Sealing time.</em></p>
+<p> </p>
+<p><strong><em>Pharmacological actions:</em></strong><br><br><em>Lidocaine cram works by temporarily blocking the pathway of pain signals along nerves. Lidocaine cram does this by stopping the sodium entering the nerve ending at the site of the pain. This prevents an electrical signal building up and passing along the nerve fibers to the brain.</em><br><br><strong><em>Pharmacokinetic:</em></strong><br><br><em>Lidocaine may be absorbed following topical administration to mucus membranes, its rate and extent of absorption depends upon the specific site of application, duration or exposure, concentration and the total dosage. You may experience reddening of the procedure area.<span> </span></em><br><br><em><strong>Warning:</strong></em><br><br><em>Not to be used on children under 6 years old.</em><br><em>Do not use if Allergy to lidocaine or other local anesthetics</em><br><em>You should NOT apply the cream to cuts, grazes, wounds; Areas where there is a skin rash or eczema. In or near the eyes, ears, mouth, (inside) nose or anus (back side) or the genitals of children.</em><br><em>Adults and children 6 years of age and older: Apply to affected areas no more than 2 times a day. Children under years please consult a physician.</em><br><br><em>If your side effects bother you, or if you experience any unusual effects while you are using TKTX cream, stop using and contact your medical provider immediately.</em><br><br><strong><em>Adverse Reactions:</em></strong><br><br><em>Its possible side effects are likely to include swelling or redness at the application site, unusual sensations on skin or pale skin. Severe to rare side effects may include allergic reactions like hives, rash, itchiness, facial swelling, and difficulty in breathing or tightness in the chest.</em><br><br><strong><em>Over dosage:</em></strong><br><br><em>Medicines affect different people in different ways. If you experience any unusual effects while using, stop and contact you medical provider immediately. Treatment should be symptomatic and supportive.</em></p>
+<div id="product-component-72ea8413e65"></div>
+<div id="product-component-e4822ed2ae3"></div>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    (function () {
+      var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+      if (window.ShopifyBuy) {
+        if (window.ShopifyBuy.UI) {
+          ShopifyBuyInit();
+        } else {
+          loadScript();
+        }
+      } else {
+        loadScript();
+      }
+      function loadScript() {
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = scriptURL;
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+        script.onload = ShopifyBuyInit;
+      }
+      function ShopifyBuyInit() {
+        var client = ShopifyBuy.buildClient({
+          domain: 'tktxnumbing.myshopify.com',
+          storefrontAccessToken: '81e116c51d4cd8335832f0656f65710f',
+        });
+        ShopifyBuy.UI.onReady(client).then(function (ui) {
+          ui.createComponent('product', {
+            id: [1084018491507],
+            node: document.getElementById('product-component-e4822ed2ae3'),
+            moneyFormat: '%24%7B%7Bamount%7D%7D',
+            options: {
+  "product": {
+    "variantId": "all",
+    "contents": {
+      "imgWithCarousel": false,
+      "variantTitle": false,
+      "description": false,
+      "buttonWithQuantity": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px"
+        }
+      }
+    }
+  },
+  "cart": {
+    "contents": {
+      "button": true
+    },
+    "styles": {
+      "footer": {
+        "background-color": "#ffffff"
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "variantTitle": false,
+      "buttonWithQuantity": true,
+      "button": false,
+      "quantity": false
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      }
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  }
+}
+          });
+        });
+      }
+    })();
+    /*]]]]><![CDATA[>*/
+    </script>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.tktxstore.com/blogs/news/tktx-history</id>
+    <published>2016-08-02T14:29:00+08:00</published>
+    <updated>2019-02-01T13:00:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.tktxstore.com/blogs/news/tktx-history"/>
+    <title>TKTX History</title>
+    <author>
+      <name>Kelly Chan</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><span><img src="//cdn.shopify.com/s/files/1/0075/7098/0979/files/452_1024x1024.jpg?v=1546932119" alt=""></span></p>
+<p>If you're looking for pain-relieving creams, you'll quickly discover the TKTX. This cream is offered on promotion and shopping sites. <br><br>The TKTX cream has been on the market since 1996, so more than 22 years ago the need for pain-relieving ointments and creams in the field of tattoos began. Since then, this cream has become the most popular preparation among tattoo fans. <br><br>In the beginning the 20% TKTX was distributed, quickly followed by TKTX 35%, TKTX 38%, TKTX 39% until the last ointment TKTX 40%. It's easy to lose track of what's going on because the TKTX Numb Cream is available in 7 different colors, different sales volumes and significant price differences make it difficult to find your way around quickly. <br><br>The supplier of these creams, which is based in China, gives some basic distinguishing features: <br><br>-EAN number is 2100623. <br>-The box is sealed with a hologram. <br><br>The Chinese manufacturer of the TKTX is online with its webshop and provides the strength and effectiveness of the cream through the tube colors. <br><br>There is also a basic consideration to be considered: The green TKTX has the highest active ingredient concentration, 5% lidocaine, 5% prilocaine and 1% epinephrine, the other 5 creams are identical in their active ingredient composition: 5% lidocaine, 5% prilocaine and 1% epinephrine. Nevertheless, the identical active ingredient combinations are still indicated with different % values. Why's that? <br><br>The different colors are mixed differently by their carrier. This means in plain language: The combination of active ingredients is almost identically strong and effective in all of them, but the actual cream is composed differently. <br><br>Since not everyone has the same skin and you also have different skin characteristics within your body, TKTX offers carriers with different absorption properties and distinguishes them in their color coding. <br><br>But what cream should I use? You should answer this question yourself and keep in mind that each of these colors is particularly effective. Over the years, however, a trend towards the green and red has developed and TKTX regards them as all-rounders. It is advisable not only to test one color, but to take two different ones in direct comparison and find the one for the best mixture. <br><br>You can find out exactly what the right TKTX application looks like in this guide.<a href="https://www.tktxstore.com/blogs/news/how-to-use-tktx"> Here you can see step by step how it works.</a> <br><br>Once again, all TKTX products have had an impressive effect. In fact, they stun to the maximum and always even by lengths more than products freely available here . This leads then naturally to positive evaluations on the part of the buyers. Nevertheless, it is never certain whether the active ingredients of these creams produced in China are actually present in a correspondingly high purity and concentration. In addition, the other components are not listed at all. Should the information on the composition and concentration of the active ingredients nevertheless be correct, the TKTX ointments would be subject to prescription in Germany.</p>
+<p> </p>
+<p> </p>]]>
+    </content>
+  </entry>
+</feed>
